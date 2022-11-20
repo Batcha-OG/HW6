@@ -1,6 +1,6 @@
 public class Shuffle {
 
-    public int getNumber() {
+    public int getNumber(){
         return (int) Math.floor(Math.random() * 101);
     }
 }

@@ -5,6 +5,7 @@ public class BetMore{
     public BetMore(Shuffle s){
         this.s = s;
     }
+
     public int pickCard(){
         return s.getNumber();
     }

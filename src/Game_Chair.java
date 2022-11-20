@@ -13,6 +13,7 @@ public class Game_Chair {
         chair.findWinner();
         System.out.println("--------------------------------------------");
     }
+
     public void start(){
         Scanner in = new Scanner(System.in);
 

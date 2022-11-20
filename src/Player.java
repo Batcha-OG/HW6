@@ -11,7 +11,7 @@ public class Player {
         card = bet.pickCard();
     }
 
-    public int getCard() {
+    public int getCard(){
         return card;
     }
 }
